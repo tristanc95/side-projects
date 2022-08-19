@@ -21,9 +21,7 @@ It's a good way to get myself to learn new languages with something that works f
 
 Please note these things though if you somehow show up upon this folder:
 
-1. These languages / programs are set up to work specifically with MY own yt-dlp setup. If you stumble on this and want to use it yourself, you'll likely have to adjust parameters based on your own specific setup.
-
-I'm sorry about them not being universal, but I don't unfortunately have the know-how well enough to do so, and I do mostly just make these for myself. I hope you understand.
+1. These languages / programs are set up to work specifically with MY own yt-dlp setup. If you stumble on this and want to use it yourself, you'll likely have to adjust parameters based on your own specific setup. I'm sorry about them not being universal, but I don't unfortunately have the know-how well enough to do so, and I do mostly just make these for myself. I hope you understand.
 
 2. I know my language and code is likely going to be messy and very amateurish. If you do have any recommendations, please feel free to mention it to me! I like to learn from what I made, so any tips are appreciated.
 
