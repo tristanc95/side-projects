@@ -9,11 +9,13 @@ I know I could've used the GUI, but I wanted to use this as an excuse to learn s
 In this folder, it is going to be me creating a program in different languages that does the same thing:
 Asks for the video link 
 
-Asks if its a channel, playlist, or video
+-- Asks if its a channel, playlist, or video
 
-Opens up a ConEmu window and types in all the inputs for me
+-- Opens up a ConEmu window and types in all the inputs for me
 
-Offers to see if you have another video to download and repeat process.
+-- Offers to see if you have another video to download
+
+-- If yes, repeat the process, If no, close it out.
 
 It's a good way to get myself to learn new languages with something that works for me practically!
 
