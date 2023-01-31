@@ -26,8 +26,10 @@ Also, here's my rankings of making these programs from easiest to hardest:
 1. Python -- Technically the only one as of now (8.19.2022), but I'm sure this will move down. I found Python to be extremely frustrating in getting this program to work properly and even just finding ways to open up Windows programs correctly.
 It became much of a stressor that I had to take a break on it. I'm happy it's done honestly.
 
+2. Java -- Wow oh wow have I learned I do not like Java. I thought Python was frustrating but man I don't know if it's just because I went into this without taking any Java courses or anything, but Java is so confusing and I still don't fully get what I did on here, but I ended up making it work. It's way less complex than Python's because to be honest, I got it to work and I don't really want to do more of it.
+
 Languages Planned:
 Powershell
 C#
-Java
-Possibly others!
+Go (?)
+Ruby (?)
